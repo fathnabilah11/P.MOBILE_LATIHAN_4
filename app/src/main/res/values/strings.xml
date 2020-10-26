@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">latihan 4</string>
+    <string name="hobi">Hobi:</string>
+    <string name="formulir_mahasiswa">Formulir Mahasiswa</string>
+    <string name="nama">Nama:</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="hasil_input">===== HASIL INPUT =====</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="bermain_game">Bermain game</string>
+    <string name="olahraga">Olahraga</string>
+    <string name="membaca">Membaca</string>
+    <string name="dd_mm_yyyy">dd/MM/yyyy</string>
+    <string name="tanggal_lahir">Tanggal Lahir:</string>
+    <string name="masukan_tempat_lahir">Masukan Tempat Lahir</string>
+    <string name="tempat_lahir">Tempat Lahir:</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki - laki</string>
+    <string name="jenis_kelamin">Jenis Kelamin:</string>
+    <string name="reset">Reset</string>
+</resources>
